@@ -1,1 +1,1 @@
-# GitnGitHub-Basics
+# Git & GitHub Övningar
