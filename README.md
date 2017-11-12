@@ -1,1 +1,1 @@
-# Git & GitHub Övningar
+# Git & GitHub Practices
