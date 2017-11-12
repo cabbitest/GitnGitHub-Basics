@@ -1,1 +1,1 @@
-# Git & GitHub Practices
+# Basic Git & GitHub Practices
